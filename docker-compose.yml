@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+  python101:
+    image: altasbatuhan/python101:v1.1
+    ports:
+      - "8888:8888"
